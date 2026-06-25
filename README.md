@@ -14,7 +14,9 @@ Every new project, the same problem: reconfigure Cursor rules from scratch, set 
 
 ## Now Building
 
-![fare demo](https://jeelvankhede.github.io/frontend-ai-starter-recipes/walkthrough.gif)
+| fare in action | bare in action |
+| :---: | :---: |
+| ![fare demo](https://jeelvankhede.github.io/frontend-ai-starter-recipes/walkthrough.gif) | ![bare demo](https://jeelvankhede.github.io/backend-ai-starter-recipes/walkthrough.gif) |
 
 ### [fare](https://jeelvankhede.github.io/frontend-ai-starter-recipes/) — frontend-ai-starter-recipes
 
@@ -30,8 +32,6 @@ Adapters: Cursor · Claude Code · GitHub Copilot · Windsurf · Antigravity
 Frameworks: React · Next.js · Vue · Nuxt · Svelte · SvelteKit · Angular
 
 ---
-
-![bare demo](https://jeelvankhede.github.io/backend-ai-starter-recipes/walkthrough.gif)
 
 ### [bare](https://jeelvankhede.github.io/backend-ai-starter-recipes/) — backend-ai-starter-recipes
 
