@@ -61,12 +61,12 @@ Frameworks: NestJS · Express · Fastify · Hono
 
 ## When I'm bored,
 
-I love writing. I write about AI-assisted development, developer tooling, and the things that break quietly in full-stack systems. Not by theory but with practicle knowledge, experience and learnings so that others can avoid the same mistake.
+I love writing. You'll find me writing on AI-assisted development, developer tooling, and the things that break quietly in full-stack systems. Not by theory alone but with practical knowledge, experience and learnings so that others can avoid the same mistake.
 
-[jeelvankhede.hashnode.dev](https://jeelvankhede.hashnode.dev/)
+[Check this out!](https://jeelvankhede.hashnode.dev/)
 
 ---
 
 ## Socials
 
-[LinkedIn](https://www.linkedin.com/in/jeel-vankhede-b42887165/) · [X](https://twitter.com/jeel_vankhede) · [Stack Overflow](https://stackoverflow.com/users/10271334/jeel-vankhede)
+[LinkedIn](https://www.linkedin.com/in/jeel-vankhede-b42887165/) · [Stack Overflow](https://stackoverflow.com/users/10271334/jeel-vankhede)
